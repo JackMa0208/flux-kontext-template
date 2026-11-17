@@ -1,5 +1,6 @@
 "use client";
 
+// 生成器的参数配置卡片
 import { useId } from "react";
 import type { CSSProperties } from "react";
 import { Settings } from "lucide-react";
