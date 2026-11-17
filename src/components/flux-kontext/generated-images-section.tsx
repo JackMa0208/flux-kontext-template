@@ -236,6 +236,7 @@ function GeneratedImageCard({
   );
 }
 
+// 展示生成结果列表，并提供复制/下载/快速编辑
 export function GeneratedImagesSection({
   generatedImages,
   isGenerating,
